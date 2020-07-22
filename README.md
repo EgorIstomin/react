@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Реализован функционал как в социальной сети Twitter, Можно использовать в качестве To do list, при желании можно настроить bootstrap стили под свой проект, изменив стили.  
 ![Image alt](https://github.com/Egoristomin/react/raw/master/public/git.png)
 ## Available Scripts
 
