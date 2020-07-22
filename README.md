@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-![Image alt](https://github.com/{Egoristomin}/{react}/raw/{master}/{public}/git.png)
+![Image alt](https://github.com/Egoristomin/react/raw/master/public/git.png)
 ## Available Scripts
 
 In the project directory, you can run:
